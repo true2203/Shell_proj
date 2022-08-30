@@ -8,6 +8,7 @@ class RestWorksApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Happy Ganesha Chathurthi");
 	}
 
 }
